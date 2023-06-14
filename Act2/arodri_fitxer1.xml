@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="arodri_fitxer2.xsl" type="text/xsl"?>
+<colegio>
+    <clase>
+        <grupo>SMIX1</grupo>
+        <profesor>Manuel</profesor>
+        <delegado>Enrique</delegado>
+        <subdelegado>Rafael</subdelegado>
+        <alumno>Jaime</alumno>
+    </clase>
+
+    <clase>
+        <grupo>SMIX2</grupo>
+        <profesor>Pablo</profesor>
+        <delegado>Alberto</delegado>
+        <subdelegado>Pedro</subdelegado>
+        <alumno>Antonio</alumno>
+    </clase>
+
+    <clase>
+        <grupo>ASIX1</grupo>
+        <profesor>Alejandro</profesor>
+        <delegado>Daniel</delegado>
+        <subdelegado>Fernando</subdelegado>
+        <alumno>Marcos</alumno>
+    </clase>
+
+    <clase>
+        <grupo>ASIX2</grupo>
+        <profesor>Gabriel</profesor>
+        <delegado>Samuel</delegado>
+        <subdelegado>Ernesto</subdelegado>
+        <alumno>Carlos</alumno>
+    </clase>
+</colegio>
